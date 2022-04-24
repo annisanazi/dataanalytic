@@ -9,7 +9,7 @@ I use power automate to retrieve daily data received from email. The data is use
 The process is when a trigger email is received, Power Automate will run automatically and save the data from the email into a shared folder.
 
 This is the preview of the process
-![Power Automate Email](https://github.com/annisanazi/datanalytics/blob/main/6.png)
+![Power Automate Email](https://github.com/annisanazi/datanalytics/6.png)
 
 ### Power Query
 I use power query to do ETL (Extract, Load and Transform) for data cleansing before doing data visualization or dashboard creation.
@@ -21,7 +21,7 @@ The data used comes from an SQL database that has been previously queried. The d
 This of course will save the time needed to make weekly reports.
 
 This is the preview of the process
-![ACF Report](https://github.com/annisanazi/datanalytics/blob/main/5.png)
+![ACF Report](https://github.com/annisanazi/datanalytics/5.png)
 
 ### Power BI
 Data analytics cannot be separated from the existence of visualization data. Here I use Power BI as a tool for data visualization.
@@ -33,10 +33,10 @@ Another feature is the presence of DRLS (Dynamic Role Level Security) to limit t
 The data sources used are data from Power Automate, Excel, SQL Database, and Hex Hive Hadoop shared folders.
 
 This is the preview of high level summary - Operasi Pasar Minyak Goreng
-![ACF Report](https://github.com/annisanazi/datanalytics/blob/main/1.png)
+![ACF Report](https://github.com/annisanazi/datanalytics/1.png)
 
 This is the preview of SLA chart
-![ACF Report](https://github.com/annisanazi/datanalytics/blob/main/2.png)
+![ACF Report](https://github.com/annisanazi/datanalytics/2.png)
 
 This is the preview of billing reporting
-![ACF Report](https://github.com/annisanazi/datanalytics/blob/main/3.png)
+![ACF Report](https://github.com/annisanazi/datanalytics/3.png)
