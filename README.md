@@ -30,7 +30,7 @@ The following is an example of using Power BI for monitoring reports in the Fina
 
 Another feature is the presence of DRLS (Dynamic Role Level Security) to limit the use of the dashboard according to the user.
 
-The data sources used are data from Power Automate, Excel, SQL Database, and Hex Hive Hadoop shared folders.
+The data sources used are data from shared folders Power Automate, Excel, SQL Database, and Hex Hive Hadoop.
 
 This is the preview of high level summary - Operasi Pasar Minyak Goreng
 ![ACF Report](https://github.com/annisanazi/dataanalytic/blob/main/1.png)
